@@ -1,5 +1,8 @@
 _repo: The-German-Secret-Service-in-America-1914-1918_58652
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 58652-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Jones, John Price
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '50081'
     url: http://www.gutenberg.org/2009/agents/50081
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58652#The-German-Secret-Service-in-America-1914-1918
 gutenberg_issued: '2019-01-08'
 gutenberg_type: Text
 identifiers:
